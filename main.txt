@@ -1,2 +1,0 @@
-Title: Git for Everyone
-Description: is my first txtfile
